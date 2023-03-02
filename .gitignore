@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 .vscode
+resources
 
 ### STS ###
 .apt_generated
