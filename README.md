@@ -4,20 +4,20 @@
 
 ## Lista de Padrões (Designs Patterns) criadas no código
 
-1 \* Singleton
+* Singleton
 
-3 \* Strategy
+* Strategy
 
-4 \* Facade
+* Facade
 
 ## Métodos mais importantes utilizados para a implementação da regra de negócio
 
-1 \* Criação do do projeto através do Spring Boot e algumas dependências;
+* Criação do do projeto através do Spring Boot e algumas dependências;
 
-2 \*Criação básica de cadastro de clientes no início;
+* Criação básica de cadastro de clientes no início;
 
-3 \*Utilização de API pública para atualização de dados do cliente através do CEP como chave principal;
+* Utilização de API pública para atualização de dados do cliente através do CEP como chave principal;
 
-4 \*Utilização de notações do Spring Boot para criação e desenvolvimento do código;
+* Utilização de notações do Spring Boot para criação e desenvolvimento do código;
 
-5 \*Implementação de documentação Java;
+* Implementação de documentação Java;
