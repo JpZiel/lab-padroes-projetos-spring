@@ -12,7 +12,7 @@
 
 ## Métodos mais importantes utilizados para a implementação da regra de negócio
 
-* Criação do do projeto através do Spring Boot e algumas dependências;
+* Criação do projeto através do Spring Boot e algumas dependências;
 
 * Criação básica de cadastro de clientes no início;
 
